@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Felipe Duarte
+- 👀 I’m interested in Back-ending programation
+- 🌱 I’m currently learning software engineering
+- 📫 How to reach me felpsduarte137@gmail.com
+- ⚡ Fun fact: I like star wars
